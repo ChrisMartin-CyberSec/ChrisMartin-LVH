@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ChrisMartin-LVH
-- 👀 I’m interested in Penetration Testing and Cybersecurity
-- 🌱 I’m currently learning new Penetration Testing methodologies
+Hey everyone!
 
--I'm a fan of all things Python and all things Linux with a focus on PenTesting and Cybersecurity. Always looking to expand my knowlege and help where I can. 
--New to the world of Cyber but loving all the new things I'm learning.
+My name is Chris, I'm a noobie in the world of Pentesting and Cybersecurity but I'm learning and making my way up the ladder as much as I can.
 
--Don't hesitate to reach out!
+I'm a Cybersecurity student with an interest in offensive security methodologies and scripting. I mainly focus on Python with a bit of VBScript and currently learning JScript and PowerShell.
+
+Don't hesitate to reach out!
