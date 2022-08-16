@@ -3,4 +3,6 @@
 - 🌱 I’m currently learning new Penetration Testing methodologies
 
 -I'm a fan of all things Python and all things Linux with a focus on PenTesting and Cybersecurity. Always looking to expand my knowlege and help where I can. 
-Don't hesitate to reach out!
+-New to the world of Cyber but loving all the new things I'm learning.
+
+-Don't hesitate to reach out!
